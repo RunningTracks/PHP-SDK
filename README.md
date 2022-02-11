@@ -6,7 +6,15 @@ This SDK has been provided as a means for users to quickly and easily access pub
 ## Obtaining an API Key
 You do not require an API Key from Running Tracks for public endpoints. If you are accessing a public endpoint, your api key and api secret will not be referenced or checked and will not count towards your limits.
 
-## Example
+## Accessing the Metaverse via API
+We currently allow access to public endpoints for Running Tracks. No availability is expected to be enabled for actual in-game control.
+
+## Updates
+We recommend to kep checking the [REST API Documentation](https://github.com/RunningTracks/Running-Tracks-API-Version-1/blob/main/rest-api.md) for Running Tracks as endpoints are being added all the time.
+
+The SDK is intended to provide the public with ability to track land sales, land drops, fuel and other other related items.
+
+## PHP Example
 
 ```php
 
